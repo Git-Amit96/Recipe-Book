@@ -31,9 +31,9 @@ Welcome to the **Recipe Book Website** – your ultimate destination for explori
 
 ## 🚀 How to Use
 
-1. Navigate to the [Home Page](https://your-netlify-deployment-link.netlify.app) to browse recipes.
+1. Navigate to the [Home Page](https://cerulean-bubblegum-c5c59e.netlify.app) to browse recipes.
 2. Click on a dish card to view its detailed recipe and cooking instructions.
-3. Visit the [About Us](https://your-netlify-deployment-link.netlify.app/about) page to learn more about the project and its creator.
+3. Visit the [About Us](https://cerulean-bubblegum-c5c59e.netlify.app/about) page to learn more about the project and its creator.
 
 ---
 
